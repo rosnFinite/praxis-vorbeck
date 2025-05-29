@@ -1,6 +1,5 @@
 "use client"
 
-import { Navbar, NavbarBrand, NavbarContent, NavbarItem, Link, Button } from "@heroui/react";
 import Navigation from "./components/navigation";
 import { useEffect, useState } from "react";
 import Hero from "./components/hero";
